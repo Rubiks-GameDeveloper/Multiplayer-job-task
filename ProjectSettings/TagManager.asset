@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameZone
+    uniqueID: 4106305539
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 2257576777
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3921552417
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 2762748567
+    locked: 0
+  - name: Player
+    uniqueID: 1749276655
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 3275757553
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 4094949831
+    locked: 0
